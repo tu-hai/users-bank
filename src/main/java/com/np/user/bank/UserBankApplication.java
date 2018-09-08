@@ -8,5 +8,6 @@ public class UserBankApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserBankApplication.class, args);
+		int votuhai = 0;
 	}
 }
